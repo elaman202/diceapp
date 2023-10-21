@@ -60,7 +60,7 @@ class _HomePageState extends State<HomePage> {
                     },
                     child: Image.asset(
                         'assets/images/photo-${rightDice == 0 ? rightDice + 1 : rightDice}.png')),
-              ],
+              ], 
             ),
           ),
         ),
