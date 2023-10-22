@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
           appBar: AppBar(
             centerTitle: true,
             title: Text(
-              "DiceApp",
+              "DiceApp  DiceApp",
               style: TextStyle(fontSize: 30),
             ),
             backgroundColor: Colors.red,
